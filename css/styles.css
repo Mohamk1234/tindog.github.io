@@ -1,0 +1,190 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+#title{
+  background-color: #ff4c68;
+}
+
+h1{
+  font-size: 4rem;
+  line-height: 1.5;
+  font-family: 'Comfortaa', cursive;
+  color: white;
+  font-weight: bold;
+}
+
+h2{
+
+  color: white;
+  font-weight: bold;
+  line-height: 3rem;
+
+}
+
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navbar{
+  padding: 0 0 4.5rem 0;
+
+}
+
+.nav-item{
+  padding: 0 18px;
+
+}
+
+.nav-link{
+  font-size: 1.2rem;
+}
+
+.download-btn{
+  margin: 5% 3% 5% 0;
+}
+
+.title-image{
+  width: 60%;
+  transform: rotate(20deg);
+  right: 15%;
+}
+
+.tit-img-cont{
+  text-align: center;
+}
+
+#features{
+  padding: 7% 15%;
+  background-color: white;
+}
+
+.mid-wid{
+  text-align: center;
+  padding: 5%;
+}
+
+#testimonials{
+  text-align: center;
+  background-color: #ef8172;
+  color: #ffff;
+
+}
+
+p{
+  color: #8f8f8f;
+}
+
+.fa-check-circle{
+  color: #ef8172;
+  font-size: 50px;
+  margin-bottom: 2rem;
+}
+
+.fa-heart{
+  color: #ef8172;
+  font-size: 50px;
+  margin-bottom: 2rem;
+}
+
+.fa-bullseye{
+  color: #ef8172;
+  font-size: 50px;
+  margin-bottom: 2rem;
+}
+
+.fa-check-circle:hover{
+  color: #ff4c68;
+  font-size: 50px;
+}
+
+.fa-heart:hover{
+  color:#ff4c68;
+  font-size: 50px;
+}
+
+.fa-bullseye:hover{
+  color: #ff4c68;
+  font-size: 50px;
+}
+
+h3{
+  font-family: Montserrat, sans-serif;
+  font-weight: bold;
+}
+
+em{
+  color: white;
+}
+
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.testimonial-text{
+  padding: 4% 17% 2% 17%;
+}
+
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding:3%;
+}
+
+.press-img{
+  width: 15%;
+  margin: 2% 2% 2%;
+}
+
+#pricing{
+  text-align:center;
+  padding: 3% 2%;
+}
+.pricing-head{
+  color: black;
+}
+
+.price-card{
+  padding: 3% 2%;
+}
+
+@media (max-width: 991px){
+  .title-image{
+    transform:rotate(0);
+    width: 60%:
+  }
+
+  #title{
+    text-align:center;
+  }
+
+}
+
+#cta{
+  background-color:  #ff4c68;
+  text-align: center;
+  padding: 7% 15% 1%;
+}
+
+.bot-fot{
+  color: white;
+  font-size: 3rem;
+}
+
+#footer{
+  text-align: center;
+  padding:7% 15% 3%;
+}
+
+.foot-img{
+  size:10px;
+  margin:10px;
+}
